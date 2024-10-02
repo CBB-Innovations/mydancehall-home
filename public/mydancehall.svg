@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <style>
+    .text { font-family: Arial, sans-serif; font-weight: bold; }
+  </style>
+  
+  <!-- Simplified dancer silhouette -->
+  <path d="M50 80 Q75 20 100 80" stroke="#3498db" stroke-width="6" fill="none"/>
+  
+  <!-- Text -->
+  <text x="10" y="95" class="text" font-size="18" fill="#2c3e50">mydancehall</text>
+</svg>

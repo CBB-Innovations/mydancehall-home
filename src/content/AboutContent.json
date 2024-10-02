@@ -1,15 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Meet Our Expert Dance Teachers",
+  "text": "Our instructors are passionate about teaching and dedicated to helping you improve.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Kishan",
+      "content": "Contemporary, Jazz | 8 years experience | RAD, CID certified",
+      "icon": "notes.svg",
+      "feedback":"very helpful Product and Paaras is The best at his job"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Paaras",
+      "content": "Hip-Hop, Kathak | 8 years experience | WTF, IDK certified",
       "icon": "notes.svg"
     }
   ]
