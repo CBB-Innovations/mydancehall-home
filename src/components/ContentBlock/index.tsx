@@ -57,6 +57,7 @@ const ContentBlock = ({
                         item: {
                           color?: string;
                           title: string;
+                          url?: string;
                         },
                         id: number
                       ) => {
@@ -64,7 +65,13 @@ const ContentBlock = ({
                           <Button
                             key={id}
                             color={item.color}
-                            onClick={() => scrollTo("about")}
+                            onClick={()=>{
+                              if(item.url){
+                                window.location.href=item.url;
+                              }else{
+                                scrollTo("about");
+                              }
+                            }}
                           >
                             {t(item.title)}
                           </Button>

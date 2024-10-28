@@ -1,4 +1,12 @@
 {
   "title": "Book your dance classes in minutes",
-  "text": "GO to book now and pay for one hour class the pricing is For india is 1000rs and for USA 50$ "
+  "text": "GO to book now and pay for one hour class the pricing is For india is 1000rs and for USA 50$ ",
+  "button": [
+    {
+      "title": "Book now",
+      "url": "https://dev.mydancehall.com"
+
+    }
+
+  ]
 }
